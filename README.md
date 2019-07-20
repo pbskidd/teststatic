@@ -1,0 +1,2 @@
+# teststatic
+static hosting/Netlify
